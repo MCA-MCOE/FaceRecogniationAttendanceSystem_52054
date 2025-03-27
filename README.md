@@ -1,6 +1,3 @@
-Here’s a sample description for the **Face Recognition Attendance System** project to be used in your GitHub repository:
-
----
 
 # Face Recognition Attendance System
 
